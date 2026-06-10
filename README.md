@@ -170,8 +170,7 @@ python mission_control.py
 ## 🎥 Vídeo Pitch
 
 Link do vídeo:
-
-**(Adicionar link do YouTube após a publicação do vídeo)**
+https://youtu.be/Qfa60Jr1SKA
 
 ---
 
